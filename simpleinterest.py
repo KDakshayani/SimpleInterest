@@ -3,7 +3,7 @@ def simple_interest(principal, rate, time):
 
 
 if __name__ == "__main__":
-    principal = 100
+    principal = 1000
     rate = 2
     time = 2
 
